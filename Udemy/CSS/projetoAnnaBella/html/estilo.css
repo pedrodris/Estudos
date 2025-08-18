@@ -1,0 +1,53 @@
+.principal{
+    width: 900px;
+}
+.fundo{
+    background-image: url(/html/baixados/fundo.png);
+}
+.cabecalho{
+    background-image:url(/html/baixados/capa.png);
+    border: 1px blue;
+    background-color: rgb(234, 243, 217);
+    background-size: 725px;
+    background-repeat: no-repeat;
+    margin-right: 23%
+}
+.navbar{
+    color: midnightblue;
+    width:77%;
+
+    background-color: rgb(198, 204, 186);
+    margin-right: 23%;
+    text-align:  left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.img-campanha{
+    
+    
+    border: 8px solid #c3c3ae;
+    
+}
+.texto1{
+    background-color: beige;
+    text-align: left;
+    padding: 5px;
+    margin-right: 23%;
+}
+.direitos{
+    text-align: center;
+    margin-right: 23%;
+    
+}
+#manchete{
+    color: darkolivegreen;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+a{
+    color: #4b566a;
+    
+    padding: 5px;
+    font-weight: bold;
+    text-decoration:none;
+}
