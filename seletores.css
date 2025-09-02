@@ -1,0 +1,10 @@
+
+h1{
+    color: aquamarine;
+    padding: 10px;
+    border: 2px dashed blue;
+}
+p.principal{
+    color: blueviolet;
+    text-decoration: line-through;
+}
